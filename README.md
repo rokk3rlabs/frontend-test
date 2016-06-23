@@ -1,6 +1,6 @@
 # Frontend Test Rokk3rlabs
 
-![](https://pbs.twimg.com/profile_images/570956287941152768/6bI-VF4k_400x400.png)
+![](https://raw.githubusercontent.com/rokk3rlabs/frontend-test/master/logo.png)
 
 This is the official frontend test rokk3rlabs.
 
