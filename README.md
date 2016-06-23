@@ -21,9 +21,9 @@ You must create a simple page aplication that displays a chart where it simulate
 
 ## TODO´s
 
-* 1) Make markup/design in HTML and CSS, (see zeplin design)
-* 2) Setup project structure and libraries needed
-* 3) Iterate the activity-data.json to simulate the activity-data in real time 
+1. Make markup/design in HTML and CSS, (see zeplin design)
+2. Setup project structure and libraries needed
+3. Iterate the activity-data.json to simulate the activity-data in real time 
 
 
 ## Plus
