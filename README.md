@@ -30,7 +30,7 @@ You must create a simple page aplication that displays a chart where it simulate
 
 * Responsive Design
 * Managers modules and dependencies
-* CSS Preprocedators
+* CSS pre-processors
 * Development Patterns
 * Javascript Task ([gulpjs], [gruntjs], [brunch] ...)
 * Demo Ready
