@@ -10,7 +10,7 @@ The estimated time for this test is four (4) hours
 
 ## Requirements
 
-You must create a simple page aplication that displays a chart where it simulates an activity in real-time using the activity-data.json
+You must create a simple page application that displays a chart where it simulates an activity in real-time using the activity-data.json file
 
 
 ## Dependencies
