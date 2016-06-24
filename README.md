@@ -15,11 +15,10 @@ You must create a single page application that displays charts to simulate an ac
 
 ## Dependencies
 
-* [angularjs]
-* [highcharts] or [chartjs]
+* [reactjs]/[angularjs]
+* [highcharts]/[chartjs]/[d3]
 
-
-## TODO´s (required)
+## TODOs (required)
 
 1. Build the markup in HTML and CSS, it consists of 2 sections (see zeplin design).
 2. Setup the project structure and integrate any modules required.
