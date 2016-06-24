@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/rokk3rlabs/frontend-test/master/logo.png)
 
-This is the official frontend test rokk3rlabs.
+This is the official Rokk3rlabs frontend test.
 
 ## Deadline
 
@@ -10,7 +10,7 @@ The estimated time for this test is four (4) hours
 
 ## Requirements
 
-You must create a simple page application that displays charts where it simulates an activity in real-time using the activity-data.json file.
+You must create a single page application that displays charts to simulate an activity in real-time using the activity-data.json file.
 
 
 ## Dependencies
@@ -21,25 +21,25 @@ You must create a simple page application that displays charts where it simulate
 
 ## TODO´s (required)
 
-1. Make markup/design in HTML and CSS, It is 2 section (see zeplin design).
-2. Setup project structure and libraries needed.
-3. Iterate the activity-data.json to simulate the activity-data in real time, These charts should show activity every minute(you should make an interval every minute to show new data, modifying the original values of json).
+1. Build the markup in HTML and CSS, it consists of 2 sections (see zeplin design).
+2. Setup the project structure and integrate any modules required.
+3. Iterate the activity-data.json to simulate the activity-data in real time, these charts should be updated with activity every minute (you should make an interval every minute to show new data). Make sure to write the code needed to randomly update the original json.
 
 
 ## Desirable (plus)
 
-* Responsive Design
-* Managers modules and dependencies
+* Responsive design
+* Managers, modules and dependencies
 * CSS pre-processors
-* Development Patterns
-* Javascript Task ([gulpjs], [gruntjs], [brunch] ...)
+* Software development patterns
+* Javascript task runners ([gulpjs], [gruntjs], [brunch] ...)
 * Demo Ready
 
 
 ## Important
 
-1. You must create a github repository for this test and send a email to rokk3r contact with link repository and the README.md Setup.
-2. You can not use any interface framework for markup (like as bootstrap twitter or similar).
+1. You must create a github repository for this test and send an email to camila@rokk3rlabs.com with repository URL and the README.md setup.
+2. Do not use any sort of frontend frameworks for the markup (such as twitter's bootstrap, foundation or similar).
 
 
 > Good luck and enjoy!
