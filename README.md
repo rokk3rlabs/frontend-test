@@ -23,7 +23,7 @@ You must create a simple page application that displays charts where it simulate
 
 1. Make markup/design in HTML and CSS, It is 2 section (see zeplin design).
 2. Setup project structure and libraries needed.
-3. Iterate the activity-data.json to simulate the activity-data in real time, the first chart should show activity each one minute(you should make an interval every minute to show new data, modifying the original values of json.)
+3. Iterate the activity-data.json to simulate the activity-data in real time, These charts should show activity every minute(you should make an interval every minute to show new data, modifying the original values of json).
 
 
 ## Desirable (plus)
