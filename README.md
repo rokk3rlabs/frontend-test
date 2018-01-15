@@ -6,7 +6,7 @@ This is the official Rokk3rlabs frontend test.
 
 ## Deadline
 
-The estimated time for this test is four (4) hours
+The estimated time for this test is four (5) hours
 
 ## Requirements
 
@@ -15,7 +15,7 @@ You must create a single page application that displays charts to simulate an ac
 
 ## Dependencies
 
-* [reactjs]/[angularjs]
+* [reactjs]/[angular.io] v4+
 * [highcharts]/[chartjs]/[d3]
 
 ## TODOs (required)
@@ -32,6 +32,7 @@ You must create a single page application that displays charts to simulate an ac
 * CSS pre-processors
 * Software development patterns
 * Javascript task runners ([gulpjs], [gruntjs], [brunch] ...)
+* Webpack bundle/build
 * Demo Ready
 
 
@@ -43,9 +44,11 @@ You must create a single page application that displays charts to simulate an ac
 
 > Good luck and enjoy!
 
-[angularjs]: <https://angularjs.org/>
+[angular.io]: <https://angular.io/>
+[reactjs]: <https://reactjs.org/>
 [highcharts]: <http://www.highcharts.com/>
 [chartjs]: <http://www.chartjs.org/>
+[d3]: <https://d3js.org/>
 [gulpjs]: <http://gulpjs.com/>
 [gruntjs]: <http://gruntjs.com/>
 [brunch]: <http://brunch.io/>
