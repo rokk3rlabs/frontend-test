@@ -6,7 +6,7 @@ This is the official Rokk3rlabs frontend test.
 
 ## Deadline
 
-The estimated time for this test is four (5) hours
+The estimated time for this test is five (5) hours
 
 ## Requirements
 
